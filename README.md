@@ -33,18 +33,18 @@
 
 # _Q3. What are the types of cloud ?_
 
-1: Public Cloud
+# 1: Public Cloud
 1. Public cloud is open to all to store and access information via the Internet using the pay-per-usage method.
 2. In public cloud, computing resources are managed and operated by the Cloud Service Provider (CSP).
 Eg: Amazon elastic compute cloud (EC2), IBM SmartCloud Enterprise, Microsoft, Google App Engine, Windows Azure Services Platform.
 
-2: Private Cloud
+# 2: Private Cloud
 1. Private cloud is also known as an internal cloud or corporate cloud. 
 2. It is used by organizations to build and manage their own data centers internally or by the third party. 
 3. It can be deployed using Opensource tools such as Openstack and Eucalyptus.
 Eg: Relaince Jio
 
-3: Hybrid Cloud
+# 3: Hybrid Cloud
 1. Hybrid Cloud is a combination of the public cloud and the private cloud. we can say:
 Hybrid Cloud = Public Cloud + Private Cloud
 2. Hybrid cloud is partially secure because the services which are running on the public cloud can be accessed by anyone, while the services which are running on a private cloud can be accessed only by the organization's users.
