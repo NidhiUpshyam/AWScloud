@@ -1,6 +1,6 @@
-### 30/06/2020          TUESDAY
+### 30/06/2020          (TUESDAY)  
 ### CLOUD                      DAY-1
-### Name: Nidhi Upashyam                           Student id: 200240320067
+### Name: Nidhi Upashyam                                           Student id: 200240320067
 
 # _Q1. What is Cloud ?_
 
